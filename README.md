@@ -45,6 +45,11 @@ Essas redes são projetadas para aprender automaticamente padrões e caracterís
 
 Quais são as alternativas ao python para ciencias de dados?
 
+SQL - É uma das linguagens de base de todo o entendimento do Data Science. Apesar de ser possível trabalhar como cientista de dados sem ter conhecimento aprofundado em SQL, conhecer a linguagem é um grande diferencial, embora seja um ponto polêmico, em que muitas pessoas não definem a linguagem como sendo de programação, mas sim de consulta de dados.
+Isso porque muitos conceitos que temos de dados e suas estruturas atualmente vieram da linguagem SQL, criada para manipulação de dados em bancos. É uma linguagem utilizada amplamente por muitas empresas hoje em dia.
+É considerada uma linguagem simples e versátil, muito útil para programas de coleta e tratamento de dados, atuando com outras linguagens específicas de Data Science. 
+fonte: https://awari.com.br/linguagens-de-programacao-para-ciencia-de-dados/#:~:text=para%20Data%20Science!-,Python,utilizada%20para%20diversas%20outras%20finalidades.
+
 Seque algumas alternativas(3 exemplos)
 Java
 Java é conhecida como a linguagem de programação mais usada e famosa. 
